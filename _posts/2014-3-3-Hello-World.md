@@ -4,7 +4,7 @@ title: What blog solution should I use?
 published: true
 ---
 
-## What better thing to write about than what I have had on my mind from the last 24 hours?
+## What better thing to write about than what I have had on my mind for the last 24 hours?
 
 Okay, so you want to write a blog. But your intellectual ego prevents you from going with something cookie-cutter or __too convenient__. What are you to do?
 
